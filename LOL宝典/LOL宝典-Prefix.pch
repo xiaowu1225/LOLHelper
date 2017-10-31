@@ -1,0 +1,58 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#import "UIView+Extension.h"
+#import "UIImage+Extension.h"
+#import "NSString+Extension.h"
+#import "Colours.h"
+#import "GXService.h"
+
+#ifdef DEBUG // 调试状态, 打开Log功能
+#define GXLog(...) NSLog(__VA_ARGS__)
+#else // 发布状态, 关闭Log功能
+#define GXLog(...)
+#endif
+
+#define kDeviceVersion [[UIDevice currentDevice].systemVersion floatValue]
+
+// 是否是iOS7
+#define iOS7 ([[UIDevice currentDevice].systemVersion doubleValue] >= 7.0)
+
+// 导航栏字体
+#define GXTitleFont [UIFont boldSystemFontOfSize:20]
+
+// 是否是4英寸
+#define fourInch ([UIScreen mainScreen].bounds.size.height == 568.0)
+
+#define WS(weakSelf) __weak __typeof(&*self)weakSelf = self;
+
+// 随机色
+#define GXColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+#define GXRandomColor GXColor(arc4random_uniform(256), arc4random_uniform(256), arc4random_uniform(256))
+
+// 屏幕宽度
+#define GXScreenWidth [UIScreen mainScreen].bounds.size.width
+// 屏幕高度
+#define GXScreenHeight [UIScreen mainScreen].bounds.size.height
+#define kScreenWidth  GXScreenWidth
+#define kScreenHeight GXScreenHeight
+#define kNavbarHeight ((kDeviceVersion>=7.0)? 64 :44 )
+#define kTabBarHeight 49
+
+// 用户信息
+#define GXServerName @"ServerName"
+#define GXPlayerName @"PlayerName"
+
+#endif

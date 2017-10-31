@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sn</key>
+		<string>电信一</string>
+		<key>fullSn</key>
+		<string>艾欧尼亚 电信一</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信二</string>
+		<key>fullSn</key>
+		<string>祖安 电信二</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信三</string>
+		<key>fullSn</key>
+		<string>诺克萨斯 电信三</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信四</string>
+		<key>fullSn</key>
+		<string>班德尔城 电信四</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信五</string>
+		<key>fullSn</key>
+		<string>皮尔特沃夫 电信五</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信六</string>
+		<key>fullSn</key>
+		<string>战争学院 电信六</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信七</string>
+		<key>fullSn</key>
+		<string>巨神峰 电信七</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信八</string>
+		<key>fullSn</key>
+		<string>雷瑟守备 电信八</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信九</string>
+		<key>fullSn</key>
+		<string>裁决之地 电信九</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信十</string>
+		<key>fullSn</key>
+		<string>黑色玫瑰 电信十</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信十一</string>
+		<key>fullSn</key>
+		<string>暗影岛 电信十一</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信十二</string>
+		<key>fullSn</key>
+		<string>钢铁烈阳 电信十二</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信十三</string>
+		<key>fullSn</key>
+		<string>均衡教派 电信十三</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信十四</string>
+		<key>fullSn</key>
+		<string>水晶之痕 电信十四</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信十五</string>
+		<key>fullSn</key>
+		<string>影流 电信十五</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信十六</string>
+		<key>fullSn</key>
+		<string>守望之海 电信十六</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信十七</string>
+		<key>fullSn</key>
+		<string>征服之海 电信十七</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信十八</string>
+		<key>fullSn</key>
+		<string>卡拉曼达 电信十八</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>电信十九</string>
+		<key>fullSn</key>
+		<string>皮城警备 电信十九</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>网通一</string>
+		<key>fullSn</key>
+		<string>比尔吉沃特 网通一</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>网通二</string>
+		<key>fullSn</key>
+		<string>德玛西亚 网通二</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>网通三</string>
+		<key>fullSn</key>
+		<string>弗雷尔卓德 网通三</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>网通四</string>
+		<key>fullSn</key>
+		<string>无畏先锋 网通四</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>网通五</string>
+		<key>fullSn</key>
+		<string>恕瑞玛 网通五</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>网通六</string>
+		<key>fullSn</key>
+		<string>扭曲丛林 网通六</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>网通七</string>
+		<key>fullSn</key>
+		<string>巨龙之巢 网通七</string>
+	</dict>
+	<dict>
+		<key>sn</key>
+		<string>教育一</string>
+		<key>fullSn</key>
+		<string>教育网专区 教育一</string>
+	</dict>
+</array>
+</plist>

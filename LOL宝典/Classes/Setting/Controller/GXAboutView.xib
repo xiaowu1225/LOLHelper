@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Q13-QY-ISl">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bindLogo" translatesAutoresizingMaskIntoConstraints="NO" id="HDk-XW-gZs">
+                    <rect key="frame" x="35" y="34" width="250" height="160"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="250" id="akV-nN-Rcq"/>
+                        <constraint firstAttribute="height" constant="160" id="j3S-RE-Zg5"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LOL宝典" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="y9s-Fu-KgG">
+                    <rect key="frame" x="45" y="218" width="231" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="Kqn-Zd-sCX"/>
+                        <constraint firstAttribute="width" constant="231" id="ep4-DB-1yJ"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <color key="textColor" red="1" green="0.50196081400000003" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="最全面最专业的的LOL信息宝典" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hPL-ad-fJg">
+                    <rect key="frame" x="28" y="279" width="265" height="33"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="265" id="IqR-FH-63R"/>
+                        <constraint firstAttribute="height" constant="33" id="xVS-2h-1sf"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <color key="textColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="版本 1.0" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uFC-cY-L6i">
+                    <rect key="frame" x="129" y="346" width="63" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="63" id="eK4-Uq-o49"/>
+                        <constraint firstAttribute="height" constant="21" id="rfY-OB-dCC"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="hPL-ad-fJg" firstAttribute="centerX" secondItem="Q13-QY-ISl" secondAttribute="centerX" id="4Yt-Nr-Bkw"/>
+                <constraint firstItem="y9s-Fu-KgG" firstAttribute="top" secondItem="HDk-XW-gZs" secondAttribute="bottom" constant="24" id="AIk-Dg-uVd"/>
+                <constraint firstItem="uFC-cY-L6i" firstAttribute="top" secondItem="hPL-ad-fJg" secondAttribute="bottom" constant="34" id="TJO-OB-PRo"/>
+                <constraint firstItem="HDk-XW-gZs" firstAttribute="centerX" secondItem="Q13-QY-ISl" secondAttribute="centerX" id="UW5-Rg-HzC"/>
+                <constraint firstItem="hPL-ad-fJg" firstAttribute="top" secondItem="y9s-Fu-KgG" secondAttribute="bottom" constant="21" id="YSF-fd-qJF"/>
+                <constraint firstItem="uFC-cY-L6i" firstAttribute="centerX" secondItem="Q13-QY-ISl" secondAttribute="centerX" id="f9w-VH-tNi"/>
+                <constraint firstItem="y9s-Fu-KgG" firstAttribute="centerX" secondItem="Q13-QY-ISl" secondAttribute="centerX" id="hEa-M0-eVL"/>
+                <constraint firstItem="HDk-XW-gZs" firstAttribute="top" secondItem="Q13-QY-ISl" secondAttribute="top" constant="34" id="mJM-Av-4dF"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="bindLogo" width="251" height="160"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_0.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>
