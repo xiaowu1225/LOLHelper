@@ -8,20 +8,20 @@ LOL宝典
 
 英雄列表
 
-![image](https://github.com/xiaowu1225/LOLHelper/Screenshots/英雄列表.png)
+![image](https://github.com/xiaowu1225/LOLHelper/blob/master/Screenshots/英雄列表.png)
 
 视频列表
 
-![image](https://github.com/xiaowu1225/LOLHelper/Screenshots/视频列表.png)
+![image](https://github.com/xiaowu1225/LOLHelper/blob/master/Screenshots/视频列表.png)
 
 视频直播.
 
-![image](https://github.com/xiaowu1225/LOLHelper/Screenshots/视频直播..png)
+![image](https://github.com/xiaowu1225/LOLHelper/blob/master/Screenshots/视频直播..png)
 
 视频界面
 
-![image](https://github.com/xiaowu1225/LOLHelper/Screenshots/视频界面.png)
+![image](https://github.com/xiaowu1225/LOLHelper/blob/master/Screenshots/视频界面.png)
 
 实用工具
 
-![image](https://github.com/xiaowu1225/LOLHelper/Screenshots/实用工具.png)
+![image](https://github.com/xiaowu1225/LOLHelper/blob/master/Screenshots/实用工具.png)
