@@ -16,12 +16,12 @@ LOL宝典
 
 视频直播.
 
-![image](https://github.com/xiaowu1225/LOLHelper/blob/master/Screenshots/视频直播..png)
-
-视频界面
-
-![image](https://github.com/xiaowu1225/LOLHelper/blob/master/Screenshots/视频界面.png)
+![image](https://github.com/xiaowu1225/LOLHelper/blob/master/Screenshots/视频直播.png)
 
 实用工具
 
 ![image](https://github.com/xiaowu1225/LOLHelper/blob/master/Screenshots/实用工具.png)
+
+视频界面
+
+![image](https://github.com/xiaowu1225/LOLHelper/blob/master/Screenshots/视频界面.png)
